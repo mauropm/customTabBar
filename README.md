@@ -3,6 +3,10 @@ Custom Tab Bar
 
 Easily add a custom tabbar to your Appcelerator Titanium iPhone app!
 
+Check this tutorial with instructions about how to implement this. 
+http://www.samjordan.co.uk/2011/02/tutorial-custom-iphone-tabbar-using-appcelerator-titanium/
+
+
 All available settings are shown in the example, defaults will be along shortly.
 
 Example
